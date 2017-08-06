@@ -14,7 +14,7 @@
     counter.py < file1.txt
 
 
-### Go version (do_not_open folder)###
+### Go version (do_not_open folder) ###
 
 * For plaintext only
 * Execute with single command line arg
