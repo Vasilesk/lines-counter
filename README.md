@@ -19,4 +19,4 @@
 * For plaintext only
 * Execute with single command line arg
 
-    counter.py file.txt
+    counter.go file.txt
